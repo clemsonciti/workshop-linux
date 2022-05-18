@@ -5,10 +5,10 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 
 > ## Instructor
-> - **Instructor**: Grigori Yourganov, Tue Vu
+> - **Instructor**: Linh B. Ngo
 > - **Office**: 2092 Barre Hall
 > - **Office Hours**: Wednesday Office-hours 8.30am – 11.30am
-> - **Email**: gyourga AT clemson DOT edu
+> - **Email**: lngo AT clemson DOT edu
 > - **Phone**: n/a
 {: .prereq}
 

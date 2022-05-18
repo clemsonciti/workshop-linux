@@ -6,6 +6,7 @@ from [The Carpentries](https://carpentries.org/).
 ## Maintainer(s)
 
 * Grigori Yourganov
+* Linh B. Ngo
 
 ## Authors
 
