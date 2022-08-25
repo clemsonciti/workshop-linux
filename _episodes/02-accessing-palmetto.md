@@ -16,7 +16,7 @@ This interface includes a directory navigation interface and a browser-based ter
 Visit the following URL from your browser: 
 
 ```
-https://openod02.palmetto.clemson.edu
+https://openod.palmetto.clemson.edu
 ```
 
 You will need to login with your Clemson username and password, and perform a DUO check. 
@@ -47,7 +47,7 @@ and shows that the shell is waiting for input.
 The prompt may also contain other information:
 this prompt tells you `your username` and which node
 you are connected to -
-`login001` is the "login" node.
+`login001` is one of the "login" nodes.
 It also tells you your current directory,
 i.e., `~`, which, as you will learn shortly,
 is short for your *home* directory.
@@ -84,7 +84,7 @@ such as transfering code and data to and from the cluster.
 
 ## Remote login (for reference purpose)
 
-To be able to run commands on the Palmetto from your own machine,
+To be able to run commands on the Palmetto cluster from your own machine,
 you will first need to be able to log in to the Palmetto.
 This is known as a *remote login*.
 

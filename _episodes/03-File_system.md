@@ -345,7 +345,7 @@ but we'll see some uses for it soon.
 > ## Other Hidden Files
 > 
 > In addition to the hidden directories `..` and `.`, you may also see a file
-> called `.bash_profile`. This file usually contains shell configuration
+> called `.bashrc`. This file usually contains shell configuration
 > settings. You may also see other files and directories beginning
 > with `.`. These are usually files and directories that are used to configure
 > different programs on your computer. The prefix `.` is used to prevent these
